@@ -37,4 +37,4 @@ Next, created a DataFrame by combining four cities data frames and made a map wh
 
 <img src="Vacation_Itinerary/WeatherPy_travel_map_markers.png" width=800>
 
-The notebook for the task is located [here](https://github.com/Takomochi/World_Weather_Analysis/blob/main/Vacation_Search/Vacation_Search.ipynb).
+The notebook for the task is located [here](https://github.com/Takomochi/World_Weather_Analysis/blob/main/Vacation_Itinerary/Vacation_Itinerary.ipynb).
